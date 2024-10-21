@@ -27,6 +27,16 @@ Others: Data Preprocessing, Feature Engineering
 
 Once deployed, the model can be used to predict flight prices. Simply enter the relevant flight details (e.g., date, destination, airline) and receive a price prediction instantly.
 ## Samples
+![imag1](https://github.com/user-attachments/assets/c8b50b84-f9c1-4f8f-9d78-7c8a707ab180)
+
+
+
+
+## Checking the Flight Price
+![img 2](https://github.com/user-attachments/assets/083f8133-3630-4f06-a306-bf61776cb863)
+
+
+
 ## 🌐 Deploying on AWS SageMaker
 
 The model is configured to be easily deployed on AWS SageMaker. Refer to the sagemaker_deployment.md file for a detailed step-by-step guide.
